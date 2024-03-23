@@ -15,6 +15,7 @@ Spreelands (Company) - Rightful Shareholder Of Dumbshit++
 # Silly Information Centre
 Dumbshitpp Version 1.00 - Written In Python.
 Dumbshitpp Version 1.2.0 - Plans For Own File Such As .dspp.
+
 Dumbshitpp Version 1.3.0 - No Further Plans.
 
 

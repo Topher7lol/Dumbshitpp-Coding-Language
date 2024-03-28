@@ -19,6 +19,8 @@ Benklery - Sub/Backup Dev, Name Idea & Co-Founder Of Spreelands
 
 Spreelands (Company) - Rightful Shareholder Of Dumbshit++
 
+adgwfg (aka owner of serenium) - your regular dumbass
+
 
 # Silly Information Centre
 Dumbshitpp Version 1.0.0 - Written In Python.

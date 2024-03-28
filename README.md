@@ -29,3 +29,5 @@ Dumbshitpp Version 1.3.0 - No Further Plans.
 
 
 # Dumbshitpp Est 2024  |  Official Development Started On March 23rd, 2024 In New Zealand Time. 23/03/2024
+
+# ENCRYPTION COMING SOON
